@@ -26,6 +26,8 @@ Directorio del personal de la biblioteca del Colegio Máximo
 
 Revista Open AccessPeer-reviewed Linguarum arena
 
+**Clasificación:**
+
 **Flujos de Trabajo:**
 
 *Informal:*
@@ -38,6 +40,8 @@ Un estudiante comenta a otro que un determinado manual de Documentación es muy 
 
 Cuando se informa en persona de un problema en uno de los ordenadores de la biblioteca.
 
+Un estudiante avisa a otro por WhatsApp de que hay mesas libres en la Biblioteca del Colegio Máximo. Es informal porque no interviene el personal bibliotecario, no queda registrado en ningún sistema y surge de la comunicación espontánea entre usuarios, sin procedimiento ni control institucional.
+
 *Formal:*
 
 Notificación formal por correo electrónico de la devolución tardía de un libro a un estudiante, ya que se trata de documentos de carácter oficial, como una notificación, un informe interno, una comunicación o una confirmación escrita de una decisión.
@@ -47,6 +51,8 @@ Un flujo formal sería un informe en el que se indican los libros que se van a c
 El usuario localiza una obra en el catálogo. Solicita el préstamo mediante los procedimientos establecidos. El personal registra la operación en el sistema bibliotecario. Se fija una fecha de devolución. Se considera un flujo formal porque sigue normas definidas, utiliza sistemas oficiales y deja un registro administrativo.
 
 Un flujo normal sería cuando a la biblioteca le llega una solicitud de compra de un libro.
+
+Reserva de un puesto de lectura en la BUG mediante la plataforma oficial de gestión de espacios.Es formal porque sigue un procedimiento reglado: acceso con credenciales universitarias, selección de biblioteca, confirmación de horario y registro automático en el sistema todo queda documentado y supervisado por la normativa de uso de salas.
 
 **Servicios**:
 

@@ -29,7 +29,7 @@ Revista Open AccessPeer-reviewed Linguarum arena
 **Clasificación:**
 
 | Concepto | Definición | Ejemplos |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Dato** | Unidad básica, aislada y verificable de representación simbólica o numérica. Carece de significado inmediato, interpretación o contexto semántico y relacional por sí solo. Requiere un marco sintáctico, contextualización o metadatos para guiar la interpretación del usuario. | Cifras sueltas (como el "número 63"), secuencias abstractas (como "1 170", que sin metadatos no se identifica como código CDU), o cantidades aisladas ("170 puestos de consulta", "5.433 puestos de lectura"). |
 | **Documento** | Unidad informativa completa, material y estructurada, en la que un flujo de información se fija de manera estable sobre un soporte. Está organizado formalmente mediante estándares editoriales y metadatos identificables para preservar el conocimiento y garantizar su recuperación. | El directorio del personal del Colegio Máximo, los textos sobre la "Estructura, equipamiento y fondos de la Biblioteca", su descripción detallada y la revista digital "Linguarum Arena". Todos son recursos con soporte, autoría y estructura. |
 

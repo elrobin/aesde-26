@@ -29,7 +29,7 @@ Revista Open AccessPeer-reviewed Linguarum arena
 **Clasificación:**
 
 | Concepto | Definición | Ejemplos |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dato** | Unidad básica, aislada y verificable de representación simbólica o numérica. Carece de significado inmediato, interpretación o contexto semántico y relacional por sí solo. Requiere un marco sintáctico, contextualización o metadatos para guiar la interpretación del usuario. | Cifras sueltas (como el "número 63"), secuencias abstractas (como "1 170", que sin metadatos no se identifica como código CDU), o cantidades aisladas ("170 puestos de consulta", "5.433 puestos de lectura"). |
 | **Documento** | Unidad informativa completa, material y estructurada, en la que un flujo de información se fija de manera estable sobre un soporte. Está organizado formalmente mediante estándares editoriales y metadatos identificables para preservar el conocimiento y garantizar su recuperación. | El directorio del personal del Colegio Máximo, los textos sobre la "Estructura, equipamiento y fondos de la Biblioteca", su descripción detallada y la revista digital "Linguarum Arena". Todos son recursos con soporte, autoría y estructura. |
 
@@ -68,6 +68,14 @@ Reserva de un puesto de lectura en la BUG mediante la plataforma oficial de gest
 5.  Formación - La biblioteca ofrece una programación anual de cursos y talleres, tanto presenciales como a través de su plataforma virtual, para aprender a utilizar sus recursos. Si necesitas formación específica, puedes solicitar cursos personalizados "a la carta". Además, la participación en muchos de estos talleres permite a los estudiantes obtener reconocimiento de créditos universitarios.
 
 **Tipos de sistema**:
+
+Alma es el sistema que se utiliza tanto pa la gestión bibliotecaria como para el catalogo y el préstamo. Este sistemas reune los tres tipos de sistemas.
+
+Sería un sistema transaccional (TPS) ya que registra préstamos, devoluciones, reservas de documentos, hace renovaciones automáticas y realiza el control de usuarios y sanciones.
+
+Tambien sería un sistema de gestión y apoyo de decisiones, ya que este sistema tiene un modulo, llamado Alma Analytics que genera estadísticas para ayudar a tomar decisiones.
+
+Por último, sería un sistema de apoyo ejecutivo, ya que Alma ofrece a través de paneles globales, a la Dirección de la biblioteca o al Rectorado el poder ver el rendimiento de todas las facultades de un vistazo. Esto les sirve para decisiones estratégicas a largo plazo, como repartir el presupuesto anual.
 
 **Funciones**:
 

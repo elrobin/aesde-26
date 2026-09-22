@@ -70,3 +70,13 @@ Reserva de un puesto de lectura en la BUG mediante la plataforma oficial de gest
 **Tipos de sistema**:
 
 **Funciones**:
+
+La Unidad de Selección y Adquisiciones de Recursos electrónicos tiene la habilidad de cruzar el gasto en licencias con las métricas de descarga con el objetivo de generar informes para saber la biblioteca si tiene que renovar o cancelar la suscripción. Todo esto es gracias a Alma Analytics.
+
+- Apoyo a la decisión: Alma Analytics da estadísticas de préstamo y uso que sirven para decidir qué comprar (impreso frente a electrónico) o qué recursos renovar, según su demanda real; en el Colegio Máximo, esto se traduce en decisiones sobre bibliografía de Comunicación/Documentación y Odontología. 
+
+- Memoria organizacional: el Reglamento de la BUG, el Código Ético y los Anuarios guardan cómo funciona la biblioteca, más allá de quién trabaje allí en cada momento; la Biblioguia propia del Colegio Máximo conserva además el conocimiento sobre los recursos específicos de sus dos facultades.
+
+El catálogo Granatensis y los registros bibliográficos almacenan información acumulada sobre documentos, autores, ubicaciones, préstamos e historial de gestión. Constituyen una memoria institucional que preserva el conocimiento documental de la organización. 
+
+- Coordinación:el préstamo intercampus coordina las bibliotecas del Campus de Cartuja entre sí, y el préstamo CBUA coordina inventario y usuarios entre las diez universidades andaluzas, todo gracias a que comparten el mismo sistema Alma/Primo. 

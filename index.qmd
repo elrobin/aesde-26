@@ -6,7 +6,7 @@ editor: visual
 
 ## Biblioteca Colegio Máximo UGR
 
-Datos:
+**Datos:**
 
 63
 
@@ -16,7 +16,7 @@ Datos:
 
 489
 
-Documentos:
+**Documentos:**
 
 Estructura, equipamiento y fondos de la Biblioteca del Colegio Máximo
 
@@ -26,12 +26,36 @@ Directorio del personal de la biblioteca del Colegio Máximo
 
 Revista Open AccessPeer-reviewed Linguarum arena
 
-Flujos de Trabajo:
+**Flujos de Trabajo:**
 
-Informal:
+*Informal:*
 
 Un mensaje de WhatsApp entre socios advirtiéndoles que llegarán tarde a la reunión con la editorial, dado que se trata de personas que no siguen los cauces considerados oficiales y, por lo tanto, tienen menos transparencia, desde conversaciones en cafeterías hasta mensajes de WhatsApp o Slack, pasando por correos electrónicos entre compañeros, si bien no tienen validez como relato, en muchos casos pueden ser de gran valor para la empresa.
 
-Formal:
+Un ejemplo de flujo informal ocurriría cuando un alumno le recomienda a otro un libro en una conversación de calle. La biblioteca realiza un préstamo pero no puede saber el origen de la acción de ese préstamo.
+
+Un estudiante comenta a otro que un determinado manual de Documentación es muy útil para preparar una asignatura y le indica dónde encontrarlo en la biblioteca. Se considera un flujo informal porque la comunicación no sigue un procedimiento oficial, no queda registrada y surge de la interacción espontánea entre usuarios.
+
+Cuando se informa en persona de un problema en uno de los ordenadores de la biblioteca.
+
+*Formal:*
 
 Notificación formal por correo electrónico de la devolución tardía de un libro a un estudiante, ya que se trata de documentos de carácter oficial, como una notificación, un informe interno, una comunicación o una confirmación escrita de una decisión.
+
+Un flujo formal sería un informe en el que se indican los libros que se van a comprar para el próximo año lectivo, todo comunicado de forma interna por los canales oficiales. Esto sería formal porque existe una trazabilidad acerca de cuando se toma esta decisión y las consecuencias que conlleva.
+
+El usuario localiza una obra en el catálogo. Solicita el préstamo mediante los procedimientos establecidos. El personal registra la operación en el sistema bibliotecario. Se fija una fecha de devolución. Se considera un flujo formal porque sigue normas definidas, utiliza sistemas oficiales y deja un registro administrativo.
+
+Un flujo normal sería cuando a la biblioteca le llega una solicitud de compra de un libro.
+
+**Servicios**:
+
+1.  Préstamo interbibliotecario: servicio mediante el cual personas pertenecientes a la Universidad de Granada obtienen documentos que no forman parte de las colecciones de la BIblioteca de la Universidad de Granada durante un tiempo limitado.
+2.  Lectura en sala: La BUG tiene 5433 puestos de lectura en la que los usuarios de la misma pueden utilizarla para realizar sus actividades como estudio y lectura.
+3.  Servicio de Digitalización: se realizan solicitudes a la BUG y esta realiza una reproducción digital del artículo solicitado.
+4.  Herramientas - La biblioteca ofrece herramientas tecnológicas fundamentales para facilitar la investigación y la redacción académica. Los gestores bibliográficos (como EndNote y Mendeley) permiten organizar referencias y generar citas automáticamente. Turnitin es un software que revisa la originalidad de los trabajos para prevenir el plagio. Además, dispones de herramientas de Inteligencia Artificial (Scite.ai, Trinka y Elicit Plus) para analizar literatura científica, buscar artículos y corregir textos académicos en inglés.
+5.  Formación - La biblioteca ofrece una programación anual de cursos y talleres, tanto presenciales como a través de su plataforma virtual, para aprender a utilizar sus recursos. Si necesitas formación específica, puedes solicitar cursos personalizados "a la carta". Además, la participación en muchos de estos talleres permite a los estudiantes obtener reconocimiento de créditos universitarios.
+
+**Tipos de sistema**:
+
+**Funciones**:

@@ -95,6 +95,8 @@ El catálogo Granatensis y los registros bibliográficos almacenan información 
 
 # **Parte 1. Caracterización de flujos y servicios por nivel**
 
+flowchart LR A\[Nivel técnico\] --\> B\[Nivel semántico\] --\> C\[Nivel efectivo\]
+
 ## **Flujo 1. Localización y acceso a los documentos en las estanterías**
 
 - **Nivel técnico.** Tendría que fallar la ubicación física del documento: tejuelos o signaturas deteriorados o ilegibles, libros mal colocados o falta de señalización. Al ser un fondo en acceso libre, un ejemplar mal ubicado equivale a un ejemplar perdido.

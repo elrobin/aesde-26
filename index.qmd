@@ -33,7 +33,7 @@ Revista Open AccessPeer-reviewed Linguarum arena
 **Clasificación:**
 
 | Concepto | Definición | Ejemplos |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dato** | Unidad básica, aislada y verificable de representación simbólica o numérica. Carece de significado inmediato, interpretación o contexto semántico y relacional por sí solo. Requiere un marco sintáctico, contextualización o metadatos para guiar la interpretación del usuario. | Cifras sueltas (como el "número 63"), secuencias abstractas (como "1 170", que sin metadatos no se identifica como código CDU), o cantidades aisladas ("170 puestos de consulta", "5.433 puestos de lectura"). |
 | **Documento** | Unidad informativa completa, material y estructurada, en la que un flujo de información se fija de manera estable sobre un soporte. Está organizado formalmente mediante estándares editoriales y metadatos identificables para preservar el conocimiento y garantizar su recuperación. | El directorio del personal del Colegio Máximo, los textos sobre la "Estructura, equipamiento y fondos de la Biblioteca", su descripción detallada y la revista digital "Linguarum Arena". Todos son recursos con soporte, autoría y estructura. |
 
@@ -93,11 +93,14 @@ El catálogo Granatensis y los registros bibliográficos almacenan información 
 
 - Coordinación:el préstamo intercampus coordina las bibliotecas del Campus de Cartuja entre sí, y el préstamo CBUA coordina inventario y usuarios entre las diez universidades andaluzas, todo gracias a que comparten el mismo sistema Alma/Primo. 
 
-# **Parte 1. Caracterización de flujos y servicios por nivel**
+## **Parte 1. Caracterización de flujos y servicios por nivel**
 
-flowchart LR A\[Nivel técnico\] --\> B\[Nivel semántico\] --\> C\[Nivel efectivo\]
+```{mermaid}
+flowchart LR
+  A[Nivel técnico] --> B[Nivel semántico] --> C[Nivel efectivo]
+```
 
-## **Flujo 1. Localización y acceso a los documentos en las estanterías**
+#### **Flujo 1. Localización y acceso a los documentos en las estanterías**
 
 - **Nivel técnico.** Tendría que fallar la ubicación física del documento: tejuelos o signaturas deteriorados o ilegibles, libros mal colocados o falta de señalización. Al ser un fondo en acceso libre, un ejemplar mal ubicado equivale a un ejemplar perdido.
 
@@ -105,7 +108,7 @@ flowchart LR A\[Nivel técnico\] --\> B\[Nivel semántico\] --\> C\[Nivel efecti
 
 - **Nivel efectivo.** De este flujo depende la decisión del usuario de buscar por sí mismo, pedir ayuda en el mostrador o abandonar la búsqueda, y también que vuelva a utilizar la colección.
 
-## **Flujo 2. Uso de la sala, los puestos de consulta y los ordenadores**
+#### **Flujo 2. Uso de la sala, los puestos de consulta y los ordenadores**
 
 - **Nivel técnico.** Tendría que fallar el equipamiento o la infraestructura: ordenadores averiados, caída de la red o del wifi, falta de enchufes o problemas de impresión. En época de exámenes, una avería afecta a muchos usuarios a la vez.
 
@@ -113,7 +116,7 @@ flowchart LR A\[Nivel técnico\] --\> B\[Nivel semántico\] --\> C\[Nivel efecti
 
 - **Nivel efectivo.** Depende del comportamiento del estudiante: si permanece en la biblioteca para estudiar o se marcha a otro lugar, y si respeta las normas de convivencia. El nivel de uso y de satisfacción depende de que el servicio funcione y se comprenda.
 
-## **Flujo 3. Atención y orientación en el mostrador**
+#### **Flujo 3. Atención y orientación en el mostrador**
 
 - **Nivel técnico.** Tendría que fallar la disponibilidad del servicio: la plantilla es reducida (una jefa de servicio y cuatro técnicos), de modo que una ausencia deja el mostrador sin cubrir. También pueden fallar los medios de contacto (teléfono, correo) o la información sobre horarios.
 
@@ -144,3 +147,13 @@ flowchart LR A\[Nivel técnico\] --\> B\[Nivel semántico\] --\> C\[Nivel efecti
 • Semántico: El formador utiliza términos demasiado técnicos sin explicarlos, dando por sentado que el público domina el tema tanto como él, lo que dificulta la comprensión.
 
 • Efectivo: Los alumnos comprenden las técnicas de búsqueda y logran aplicarlas en sus trabajos, por lo que la formación ha sido un éxito.
+
+## Inventario de documentación disponible por dimensión
+
+| Dimensión | Hay datos reales (sí/no) | Fuente |
+|:---------------------|:--------------------------:|:---------------------|
+| Calidad del Sistema (System Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Normativa de Recursos Informáticos (CSIRC) y Normas complementarias (Colegio Máximo / Bibliomaker) |
+| Calidad de la Información (Information Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Criterios de Aceptación de Donaciones y Reglamento de la BUG (NCG158/2) |
+| Calidad del Servicio (Service Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Código Ético de la BUG y Reglamento / Derechos de Personas Usuarias |
+| Uso / Intención de Uso (Use / Intention to Use) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Guía de Préstamo de la BUG y Normas de uso de instalaciones/equipos |
+| Satisfacción del Usuario (User Satisfaction) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026) y Reglamento de la BUG (Gestión de Quejas y Sugerencias) |

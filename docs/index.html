@@ -73,6 +73,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -120,12 +123,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#biblioteca-colegio-máximo-ugr" id="toc-biblioteca-colegio-máximo-ugr" class="nav-link active" data-scroll-target="#biblioteca-colegio-máximo-ugr">Biblioteca Colegio Máximo UGR</a></li>
-  <li><a href="#parte-1.-caracterización-de-flujos-y-servicios-por-nivel" id="toc-parte-1.-caracterización-de-flujos-y-servicios-por-nivel" class="nav-link" data-scroll-target="#parte-1.-caracterización-de-flujos-y-servicios-por-nivel"><strong>Parte 1. Caracterización de flujos y servicios por nivel</strong></a>
-  <ul class="collapse">
-  <li><a href="#flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías" id="toc-flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías" class="nav-link" data-scroll-target="#flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías"><strong>Flujo 1. Localización y acceso a los documentos en las estanterías</strong></a></li>
-  <li><a href="#flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores" id="toc-flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores" class="nav-link" data-scroll-target="#flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores"><strong>Flujo 2. Uso de la sala, los puestos de consulta y los ordenadores</strong></a></li>
-  <li><a href="#flujo-3.-atención-y-orientación-en-el-mostrador" id="toc-flujo-3.-atención-y-orientación-en-el-mostrador" class="nav-link" data-scroll-target="#flujo-3.-atención-y-orientación-en-el-mostrador"><strong>Flujo 3. Atención y orientación en el mostrador</strong></a></li>
-  </ul></li>
+  <li><a href="#parte-1.-caracterización-de-flujos-y-servicios-por-nivel" id="toc-parte-1.-caracterización-de-flujos-y-servicios-por-nivel" class="nav-link" data-scroll-target="#parte-1.-caracterización-de-flujos-y-servicios-por-nivel"><strong>Parte 1. Caracterización de flujos y servicios por nivel</strong></a></li>
+  <li><a href="#inventario-de-documentación-disponible-por-dimensión" id="toc-inventario-de-documentación-disponible-por-dimensión" class="nav-link" data-scroll-target="#inventario-de-documentación-disponible-por-dimensión">Inventario de documentación disponible por dimensión</a></li>
   </ul>
 </nav>
     </div>
@@ -230,27 +229,39 @@ Esperamos que esta organización haga que la navegación resulte intuitiva y que
 <li>Coordinación:el préstamo intercampus coordina las bibliotecas del Campus de Cartuja entre sí, y el préstamo CBUA coordina inventario y usuarios entre las diez universidades andaluzas, todo gracias a que comparten el mismo sistema Alma/Primo.&nbsp;</li>
 </ul>
 </section>
-<section id="parte-1.-caracterización-de-flujos-y-servicios-por-nivel" class="level1">
-<h1><strong>Parte 1. Caracterización de flujos y servicios por nivel</strong></h1>
-<p>flowchart LR A[Nivel técnico] –&gt; B[Nivel semántico] –&gt; C[Nivel efectivo]</p>
-<section id="flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías" class="level2">
-<h2 class="anchored" data-anchor-id="flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías"><strong>Flujo 1. Localización y acceso a los documentos en las estanterías</strong></h2>
+<section id="parte-1.-caracterización-de-flujos-y-servicios-por-nivel" class="level2">
+<h2 class="anchored" data-anchor-id="parte-1.-caracterización-de-flujos-y-servicios-por-nivel"><strong>Parte 1. Caracterización de flujos y servicios por nivel</strong></h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[Nivel técnico] --&gt; B[Nivel semántico] --&gt; C[Nivel efectivo]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<section id="flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías" class="level4">
+<h4 class="anchored" data-anchor-id="flujo-1.-localización-y-acceso-a-los-documentos-en-las-estanterías"><strong>Flujo 1. Localización y acceso a los documentos en las estanterías</strong></h4>
 <ul>
 <li><p><strong>Nivel técnico.</strong> Tendría que fallar la ubicación física del documento: tejuelos o signaturas deteriorados o ilegibles, libros mal colocados o falta de señalización. Al ser un fondo en acceso libre, un ejemplar mal ubicado equivale a un ejemplar perdido.</p></li>
 <li><p><strong>Nivel semántico.</strong> Aunque el documento esté en su sitio, el usuario puede no interpretar la organización. Conviven dos lógicas de clasificación (CDU y la clasificación propia de Odontología), y las revistas se ordenan por título y no por materia. Un estudiante puede no entender por qué lo que busca no está donde espera.</p></li>
 <li><p><strong>Nivel efectivo.</strong> De este flujo depende la decisión del usuario de buscar por sí mismo, pedir ayuda en el mostrador o abandonar la búsqueda, y también que vuelva a utilizar la colección.</p></li>
 </ul>
 </section>
-<section id="flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores" class="level2">
-<h2 class="anchored" data-anchor-id="flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores"><strong>Flujo 2. Uso de la sala, los puestos de consulta y los ordenadores</strong></h2>
+<section id="flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores" class="level4">
+<h4 class="anchored" data-anchor-id="flujo-2.-uso-de-la-sala-los-puestos-de-consulta-y-los-ordenadores"><strong>Flujo 2. Uso de la sala, los puestos de consulta y los ordenadores</strong></h4>
 <ul>
 <li><p><strong>Nivel técnico.</strong> Tendría que fallar el equipamiento o la infraestructura: ordenadores averiados, caída de la red o del wifi, falta de enchufes o problemas de impresión. En época de exámenes, una avería afecta a muchos usuarios a la vez.</p></li>
 <li><p><strong>Nivel semántico.</strong> El servicio funciona, pero las normas y los avisos no se entienden: sesiones de ordenador que caducan sin aviso claro, normas de silencio o de reserva de puesto ambiguas, o carteles que no distinguen las zonas de estudio y de consulta.</p></li>
 <li><p><strong>Nivel efectivo.</strong> Depende del comportamiento del estudiante: si permanece en la biblioteca para estudiar o se marcha a otro lugar, y si respeta las normas de convivencia. El nivel de uso y de satisfacción depende de que el servicio funcione y se comprenda.</p></li>
 </ul>
 </section>
-<section id="flujo-3.-atención-y-orientación-en-el-mostrador" class="level2">
-<h2 class="anchored" data-anchor-id="flujo-3.-atención-y-orientación-en-el-mostrador"><strong>Flujo 3. Atención y orientación en el mostrador</strong></h2>
+<section id="flujo-3.-atención-y-orientación-en-el-mostrador" class="level4">
+<h4 class="anchored" data-anchor-id="flujo-3.-atención-y-orientación-en-el-mostrador"><strong>Flujo 3. Atención y orientación en el mostrador</strong></h4>
 <ul>
 <li><p><strong>Nivel técnico.</strong> Tendría que fallar la disponibilidad del servicio: la plantilla es reducida (una jefa de servicio y cuatro técnicos), de modo que una ausencia deja el mostrador sin cubrir. También pueden fallar los medios de contacto (teléfono, correo) o la información sobre horarios.</p></li>
 <li><p><strong>Nivel semántico.</strong> El personal responde, pero el usuario no entiende la respuesta si se usa vocabulario propio de la biblioteca (“está en periódicas”, “en el fondo de Odontología”, una signatura CDU) o si la información publicada no coincide con lo que ocurre en la práctica.</p></li>
@@ -268,9 +279,53 @@ Esperamos que esta organización haga que la navegación resulte intuitiva y que
 <p>• Técnico: Se imparte una formación sobre bases de datos y el proyector se estropea, lo que dificulta la formación.</p>
 <p>• Semántico: El formador utiliza términos demasiado técnicos sin explicarlos, dando por sentado que el público domina el tema tanto como él, lo que dificulta la comprensión.</p>
 <p>• Efectivo: Los alumnos comprenden las técnicas de búsqueda y logran aplicarlas en sus trabajos, por lo que la formación ha sido un éxito.</p>
-
-
 </section>
+</section>
+<section id="inventario-de-documentación-disponible-por-dimensión" class="level2">
+<h2 class="anchored" data-anchor-id="inventario-de-documentación-disponible-por-dimensión">Inventario de documentación disponible por dimensión</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 38%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensión</th>
+<th style="text-align: center;">Hay datos reales (sí/no)</th>
+<th style="text-align: left;">Fuente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Calidad del Sistema (System Quality)</td>
+<td style="text-align: center;">Sí</td>
+<td style="text-align: left;">Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Normativa de Recursos Informáticos (CSIRC) y Normas complementarias (Colegio Máximo / Bibliomaker)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Calidad de la Información (Information Quality)</td>
+<td style="text-align: center;">Sí</td>
+<td style="text-align: left;">Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Criterios de Aceptación de Donaciones y Reglamento de la BUG (NCG158/2)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Calidad del Servicio (Service Quality)</td>
+<td style="text-align: center;">Sí</td>
+<td style="text-align: left;">Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Código Ético de la BUG y Reglamento / Derechos de Personas Usuarias</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Uso / Intención de Uso (Use / Intention to Use)</td>
+<td style="text-align: center;">Sí</td>
+<td style="text-align: left;">Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Guía de Préstamo de la BUG y Normas de uso de instalaciones/equipos</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Satisfacción del Usuario (User Satisfaction)</td>
+<td style="text-align: center;">Sí</td>
+<td style="text-align: left;">Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026) y Reglamento de la BUG (Gestión de Quejas y Sugerencias)</td>
+</tr>
+</tbody>
+</table>
+
+
 </section>
 
 </main> <!-- /main -->

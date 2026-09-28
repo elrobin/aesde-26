@@ -1,0 +1,105 @@
+/* =========================================
+Ficheiro: styles.css
+Projeto: Página Biblioteca UGR
+Estilo: Times New Roman, Azul e Verde
+========================================= */
+/* Estilos globais do corpo do site */
+body {
+font-family: 'Times New Roman', Times, serif;
+line-height: 1.7;
+color: #2b3a42;
+max-width: 1000px;
+margin: 0 auto;
+padding: 30px;
+background-color: #ffffff;
+}
+/*
+Cabeçalhos de secção
+*/
+h2 {
+color: #1a5276;
+border-bottom: 2px solid #85c1e9;
+padding-bottom: 10px;
+margin-top: 45px;
+margin-bottom: 25px;
+font-weight: normal;
+}
+/*
+Texto em negrito
+*/
+strong {
+color: #117864;
+font-weight: bold;
+}
+/* =========================================
+Estilização de Tabelas
+========================================= */
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 25px;
+margin-bottom: 35px;
+background-color: #ffffff;
+box-shadow: 0 2px 8px rgba(26, 82, 118, 0.08);
+border: 1px solid #d4e6f1;
+}
+th, td {
+border: 1px solid #d4e6f1;
+padding: 14px 18px;
+text-align: left;
+vertical-align: top;
+}
+th {
+background-color: #76d7c4;
+color: #145a32;
+font-weight: bold;
+font-size: 1.05em;
+}
+/* Linhas alternadas para facilitar a leitura */
+tr:nth-child(even) {
+background-color: #f4f9f9;
+}
+tr:hover {
+background-color: #e8f6f3;
+}
+/* =========================================
+Estilização de Listas
+========================================= */
+ul, ol {
+margin-bottom: 25px;
+padding-left: 30px;
+}
+li {
+margin-bottom: 14px;
+}
+/* Customização dos marcadores das listas */
+ul li::marker {
+color: #85c1e9;
+}
+ol li::marker {
+color: #117864;
+font-weight: bold;
+}
+ol li {
+padding-left: 8px;
+}
+/* =========================================
+Caixa de Introdução Personalizada
+========================================= */
+.caixa-intro-azul {
+background-color: #ebf5fb;
+border-left: 4px solid #3498db;
+padding: 15px 20px;
+margin-bottom: 25px;
+border-radius: 0 4px 4px 0;
+}
+.caixa-intro-azul h3 {
+color: #1a5276;
+border-bottom: none;
+margin-top: 0;
+margin-bottom: 15px;
+font-weight: bold;
+}
+.caixa-intro-azul p:last-child {
+margin-bottom: 0; /* Remove a margem extra no fundo do último parágrafo */
+}

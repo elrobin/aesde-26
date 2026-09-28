@@ -7,8 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Biblioteca UGR
+      - href: about.qmd
+        text: AESDE 
 
 format:
   html:

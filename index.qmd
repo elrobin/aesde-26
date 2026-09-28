@@ -1,8 +1,12 @@
 ---
-title: "inicio"
+title: "Inicio"
 format: html
 editor: visual
 ---
+
+Bienvenidos a nuestro proyecto de AESDE centrado en la Biblioteca del Colegio Máximo de la Universidad de Granada. Hemos creado esta página con el objetivo de organizar y presentar, de forma clara, el ecosistema de información que sustenta el funcionamiento diario de la biblioteca. A lo largo del sitio web, exploramos la teoría en la práctica: comenzamos por aclarar la frontera conceptual entre lo que es un simple dato aislado y un documento estructurado. A continuación, trazamos un mapa de los flujos de trabajo de la biblioteca, mostrando que la comunicación oficial formal está tan presente como los flujos informales.\
+Por último, analizamos el «motor» que lo conecta todo: el sistema Alma. Más allá de un simple catálogo de préstamos, detallamos cómo este sistema actúa en diferentes frentes, desde el registro diario de transacciones hasta el módulo Alma Analytics, que ayuda a la dirección a tomar decisiones sobre la gestión y la adquisición de recursos.\
+Esperamos que esta organización haga que la navegación resulte intuitiva y que la comprensión de la infraestructura de la biblioteca sea más accesible!
 
 ## Biblioteca Colegio Máximo UGR
 

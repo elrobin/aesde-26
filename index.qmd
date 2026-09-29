@@ -157,8 +157,7 @@ flowchart LR
 | Calidad del Servicio (Service Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Código Ético de la BUG y Reglamento / Derechos de Personas Usuarias |
 | Uso / Intención de Uso (Use / Intention to Use) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Guía de Préstamo de la BUG y Normas de uso de instalaciones/equipos |
 | Satisfacción del Usuario (User Satisfaction) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026) y Reglamento de la BUG (Gestión de Quejas y Sugerencias) |
-<<<<<<< HEAD
-=======
+
 
 # Gestión de la calidad
 

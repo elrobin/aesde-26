@@ -33,7 +33,7 @@ Revista Open AccessPeer-reviewed Linguarum arena
 **Clasificación:**
 
 | Concepto | Definición | Ejemplos |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Dato** | Unidad básica, aislada y verificable de representación simbólica o numérica. Carece de significado inmediato, interpretación o contexto semántico y relacional por sí solo. Requiere un marco sintáctico, contextualización o metadatos para guiar la interpretación del usuario. | Cifras sueltas (como el "número 63"), secuencias abstractas (como "1 170", que sin metadatos no se identifica como código CDU), o cantidades aisladas ("170 puestos de consulta", "5.433 puestos de lectura"). |
 | **Documento** | Unidad informativa completa, material y estructurada, en la que un flujo de información se fija de manera estable sobre un soporte. Está organizado formalmente mediante estándares editoriales y metadatos identificables para preservar el conocimiento y garantizar su recuperación. | El directorio del personal del Colegio Máximo, los textos sobre la "Estructura, equipamiento y fondos de la Biblioteca", su descripción detallada y la revista digital "Linguarum Arena". Todos son recursos con soporte, autoría y estructura. |
 
@@ -151,7 +151,7 @@ flowchart LR
 ## Inventario de documentación disponible por dimensión
 
 | Dimensión | Hay datos reales (sí/no) | Fuente |
-|:-----------------------|:----------------------:|:-----------------------|
+|:---|:--:|:---|
 | Calidad del Sistema (System Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Normativa de Recursos Informáticos (CSIRC) y Normas complementarias (Colegio Máximo / Bibliomaker) |
 | Calidad de la Información (Information Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Criterios de Aceptación de Donaciones y Reglamento de la BUG (NCG158/2) |
 | Calidad del Servicio (Service Quality) | Sí | Estudio de Calidad LibQUAL (SECABA-Lab 2025-2026), Código Ético de la BUG y Reglamento / Derechos de Personas Usuarias |
@@ -177,7 +177,7 @@ flowchart LR
 ## Análisis de las Dimensiones de Calidad
 
 | Dimensión | Hay datos reales que la respalden (sí/no) | Datos en si |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Calidad intrínseca** | sí | Ficha oficial con datos exactos, credibilidad institucional y objetividad sobre la superficie (489 m²), puestos de consulta (170) y ordenadores de trabajo (63). |
 | **Calidad contextual** | sí | Ficha oficial y Biblioguías. Selección completa de materias temáticas ajustadas a las necesidades docentes e investigadoras de las facultades de Comunicación, Documentación y Odontología. |
 | **Calidad representacional** | sí | Ficha oficial con descripción concisa, consistente y estandarizada de los formatos de organización del acervo: Clasificación Decimal Universal (CDU), orden alfabético para revistas y sistema Ad Hoc para Odontología. |

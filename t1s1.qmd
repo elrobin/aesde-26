@@ -1,3 +1,6 @@
+---
+title: Seminario 1
+---
 # Biblioteca Colegio Máximo UGR
 
 **Datos:**

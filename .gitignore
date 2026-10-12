@@ -45,3 +45,15 @@ rsconnect/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# --- REGLAS PARA QUARTO ---
+/*_files/
+/*_cache/
+/.quarto/
+
+# --- REGLAS PARA RSTUDIO Y VS CODE ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.vscode/

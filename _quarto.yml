@@ -18,7 +18,8 @@ website:
         text: "Presentación"
       - section: "Tema 1"
         contents:
-          - t1s1.qmd
+          - href: t1s1.qmd
+            text: Seminario 1          
 
 format:
   html:

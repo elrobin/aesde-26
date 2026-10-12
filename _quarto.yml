@@ -10,6 +10,15 @@ website:
         text: Inicio
       - href: t1s1.qmd
         text: Sobre la Biblioteca Colegio Máximo 
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: "Presentación"
+      - section: "Tema 1"
+        contents:
+          - t1s1.qmd
 
 format:
   html:

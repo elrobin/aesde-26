@@ -8,8 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: t1s1.qmd
-        text: Sobre la Biblioteca Colegio Máximo 
+        
   sidebar:
     style: "docked"
     search: true

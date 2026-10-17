@@ -2,7 +2,7 @@
 text: Flujos de trabajo 
 ---
 
-## **Parte 1. Caracterización de flujos y servicios por nivel**
+# **Parte 1. Caracterización de flujos y servicios por nivel**
 
 ```{mermaid}
 flowchart LR

@@ -1,0 +1,82 @@
+---
+text: Los estandares de calidad del Colegio Máximo
+---
+
+
+# Aula: Los estándares de calidad
+
+**Ítem 1 - Clasificación entre Sistema y Subsistema**
+
+\*El Reglamento de la Biblioteca Universitaria:
+
+Nivel / Responsabilidad: BUG (Sistema, Organización Matriz)
+
+Justificación: Corresponde al marco reglamentario general aprobado por el Consejo de Gobierno de la UGR para toda la red bibliotecaria. Establece los estándares comunes y la normativa básica del sistema.
+
+URL / Fuente consultada: https://biblioteca.ugr.es/informacion/documentos (e documento "Los estándares de calidad – AESDE.pdf", págs. 69-71)
+
+\*Las normas de acceso y uso complementarias de la Biblioteca del Colegio Máximo:
+
+Nivel / Responsabilidad: Colegio Máximo (Subsistema, Unidad Local)
+
+Justificación: Son disposiciones específicas aprobadas para adaptar la utilización de los espacios, salas de lectura y fondos locales a las necesidades particulares de las Facultades de Comunicación y Documentación y de Odontología.
+
+URL / Fuente consultada: https://biblioteca.ugr.es/informacion/organizacion/colegio-maximo/normativa (e documento "Biblioteca del Colegio Máximo \| Biblioteca UGR")
+
+\*El Sello de Excelencia Europea EFQM 600+:
+
+Nivel / Responsabilidad: BUG (Sistema, Organización Matriz)
+
+Justificación: Forma parte de la marca, de la reputación y del reconocimiento institucional global. La certificación del Sistema de Gestión evalúa a la BUG en su totalidad y no a una sala de forma aislada.
+
+URL / Fuente consultada: https://biblioteca.ugr.es/pages/biblioteca_ugr/evaluacion/efqm-500/memoria5002016renovacion (e documento "Dialnet-ElProcesoDeEvaluacionSegunElModeloEFQM-6530614.pdf", pág. 100)
+
+\*El horario de apertura de la sala de lectura:
+
+Nivel / Responsabilidad: Colegio Máximo (Subsistema, Unidad Local)
+
+Justificación: En el diagrama teórico de gestión de la información, el "Horario" se sitúa explícitamente en la Unidad Local, una vez que responde a la gestión operacional del edificio y del staff presencial.
+
+URL / Fuente consultada: https://biblioteca.ugr.es/pages/biblioteca_ugr/bibliotecas_centros/colegio_maximo e https://bibliotecaugr.libguides.com/maximo
+
+\*La Carta de Servicios:
+
+Nivel / Responsabilidad: Ambos (Aprobada por la BUG, implementada en la Unidad Local)
+
+Justificación: La Carta de Servicios es aprobada de forma centralizada por la UGR y publicada en el BOJA, pero sus compromisos de calidad son desdoblados, aplicados y medidos en el servicio diario del Colegio Máximo.
+
+URL / Fuente consultada: https://cartaservicios.ugr.es/ (e documentos "Servicios \| Biblioteca UGR" e "Dialnet-ElProcesoDeEvaluacionSegunElModeloEFQM-6530614.pdf", págs. 86-87)
+
+\*La encuesta de satisfacción de usuarios:
+
+Nivel / Responsabilidad: Ambos (Diseño y análisis BUG / Recogida local)
+
+Justificación: El diseño metodológico, el tratamiento estadístico y la integración en el Cuadro de Mando Integral (CMI) son centralizados, pero la recogida de datos proviene de la percepción directa de los usuarios en la unidad local.
+
+URL / Fuente consultada: https://biblioteca.ugr.es/ (e documento "Dialnet-ElProcesoDeEvaluacionSegunElModeloEFQM-6530614.pdf", págs. 89, 96)
+
+\*Las quejas y sugerencias presentadas en el mostrador del Colegio Máximo:
+
+Nivel / Responsabilidad: Colegio Máximo (Atención presencial) / Ambos (Tramitación)
+
+Justificación: El diagrama sitúa el triaje inicial de "Quejas" en la Unidad Local debido al contacto directo en el mostrador, aunque, en términos de procedimientos, sean canalizadas a través del sistema general de la UGR.
+
+URL / Fuente consultada: https://biblioteca.ugr.es/informacion/contacto/quejas-sugerencias (e documento "Los estándares de calidad – AESDE.pdf", pág. 70)
+
+\*Las estadísticas anuales de préstamo:
+
+Nivel / Responsabilidad: Ambos (Registro local / Consolidación en el CMI)
+
+Justificación: Son generadas a través de las transacciones diarias de los usuarios en el punto de atención local, pero son consolidadas y exploradas estadísticamente a escala del sistema, dentro del CMI de la BUG. URL / Fuente consultada: https://biblioteca.ugr.es/servicios/prestamo (e documento "Dialnet-ElProcesoDeEvaluacionSegunElModeloEFQM-6530614.pdf", págs. 90-91)
+
+**Ítem 2**
+
+| Principio | Evidencia | Fuente | Nivel (BUG / Colegio Máximo / Ambos) | ¿Se aplica o solo se declara? |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| **Enfoque al cliente** | Elaboración y seguimiento de la Carta de Servicios publicada en el BOJA; realización de encuestas periódicas y gestión de quejas y sugerencias. | Moreno Pascual (2016), págs. 86-87, 89, 96. https://cartaservicios.ugr.es/ https://biblioteca.ugr.es/informacion/contacto/quejas-sugerencias | BUG (Si cerrase el Colegio Máximo, la Carta de Servicios y las encuestas de la BUG seguirían existiendo). | Se aplica de forma real. Registra seguimiento anual de compromisos, publicación en la web y tendencias positivas. |
+| **Liderazgo** | Redacción de la Guía de Liderazgo con indicadores evaluados anualmente desde 2013, aprobación del Código Ético e implicación activa de la Dirección en las autoevaluaciones EFQM. | Moreno Pascual (2016), págs. 87, 89, 96. https://biblioteca.ugr.es/pages/biblioteca_ugr/evaluacion/efqm-500/memoria5002016renovacion | BUG (El modelo de liderazgo y el Plan Estratégico se definen centralmente por la Dirección). | Se aplica de forma fáctica. La dirección participa en los comités y los indicadores de liderazgo se miden y revisan anualmente. En la biblioteca del Colégio Máximo, las cosas solo se exponen, no se aplican en la práctica. |
+| **Compromiso de las personas** | Ausencia de organigrama formal. La responsabilidad recae directamente en la Directora de la Biblioteca, encargada de motivar al personal, coordinar al equipo y distribuir las tareas y funciones entre los miembros de la plantilla, apoyándose en el Plan de Reconocimiento, Jornadas de Buenas Prácticas y el Plan de Creatividad e Innovación. | Moreno Pascual (2016), págs. 91-93, 96-97. https://investigacion.ugr.es/informacion/directorio-personal/entidades/biblioteca-universitaria | BUG (Los planes de gestión de personal, reconocimiento y formación cubren a toda la plantilla). | Se aplica realmente. Se mide la satisfacción laboral, la eficacia de la formación y la alta participación voluntaria en equipos de mejora. En la biblioteca del Colégio Máximo, las cosas solo se exponen, no se aplican en la práctica. |
+| **Enfoque a procesos** | Certificación y renovación continuada del Sistema de Gestión de la Calidad según la norma ISO 9001 (desde 2007) y mapa de procesos formalizado. | Moreno Pascual (2016), págs. 86, 95. https://biblioteca.ugr.es/informacion/documentos | BUG (La certificación ISO 9001 y la normalización de procesos cubren a toda la red bibliotecaria). | Se aplica efectivamente. Se somete a revisiones anuales del sistema y auditorías externas periódicas de renovación. |
+| **Mejora** | Autoevaluaciones bajo el modelo EFQM (Sellos 400+, 500+ y renovaciones), constitución de Grupos de Mejora y Premio Iberoamericano de la Calidad. | Moreno Pascual (2016), págs. 87, 96, 98. https://biblioteca.ugr.es/pages/biblioteca_ugr/evaluacion/efqm-500/memoria5002016renovacion | BUG (La metodología EFQM y el reconocimiento de excelencia pertenecen a la organización). | Se aplica de manera consolidada. Acredita planes de mejora anuales derivados de evaluaciones internas y externas. |
+| **Toma de decisiones basada en la evidencia** | Explotación del Cuadro de Mando Integral (CMI) con indicadores de rendimiento, análisis de cargas de trabajo por punto de servicio y el repositorio DIGIBUG. | Moreno Pascual (2016), págs. 90, 91, 97. https://biblioteca.ugr.es/investigacion/digibug | BUG (El CMI y la recogida estadística consolidada se gestionan centralmente). | Se aplica de forma fáctica. Los datos del CMI y los estudios de carga fundamentan la planificación y los análisis DAFO. |
+| **Gestión de las relaciones** | Diseño del Mapa de Alianzas, integración en consorcios (CBUA, REBIUN), convenios de impacto social (ONCE, centros penitenciarios) y proveedores. | Moreno Pascual (2016), págs. 89-90, 93-95, 97. https://biblioteca.ugr.es/servicios https://bibliotecaugr.libguides.com/maximo | Ambos (Los consorcios y acuerdos marco son a nivel BUG; las actividades sociales y culturales se adaptan localmente). | Se aplica activamente. Existen acuerdos formalizados, evaluación de resultados y proyectos conjuntos vigentes con el entorno. |

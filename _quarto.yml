@@ -13,12 +13,17 @@ website:
     style: "docked"
     search: true
     contents:
-      - href: index.qmd
-        text: "Presentación"
-      - section: "Tema 1"
-        contents:
+      - section: "Biblioteca Colegio Máximo"
+      -   href: index.qmd
+          contents:
           - href: t1s1.qmd
-            text: Seminario 1          
+          - href: flujosdetrabajo.qmd
+          - href: gestioncalidad.qmd
+          - href: disenodelisntrumento.qmd
+          - href: estandarescalidad.qmd
+          - href: iso.qmd
+
+
 
 format:
   html:
@@ -28,4 +33,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source

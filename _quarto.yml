@@ -17,11 +17,17 @@ website:
       -   href: index.qmd
           contents:
           - href: t1s1.qmd
+            text: Datos generales
           - href: flujosdetrabajo.qmd
+            text: Flujos de trabajo
           - href: gestioncalidad.qmd
+            text: Gestión de la calidad
           - href: disenodelisntrumento.qmd
+            text: Propuesta de diseño del instrumento de calidad percibida
           - href: estandarescalidad.qmd
+            text: Los estandares de calidad del Colegio Máximo
           - href: iso.qmd
+            text: ISOs
 
 
 

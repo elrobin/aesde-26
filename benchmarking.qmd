@@ -1,0 +1,11 @@
+---
+text: Benckmarking
+---
+
+
+# Aula: Benchmarking
+## Comparación de la Biblioteca del Colegio Máximo
+
+| **Tipo**| **Socio**| **Qué se compara** | **¿Producto, servicio o práctica?** |** Por qué este socio**| **Indicador para validar el socio** | **Fuente de los datos** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Interno** | Biblioteca de Informática y Telecomunicaciones / Bibliomaker Informática (Red BUG) | Los protocolos de gestión operativa, dinamización presencial y soporte web de los talleres del espacio de creación tecnológica Bibliomaker. | Práctica | Es una unidad integrada en la propia matriz de la BUG. Presenta la mayor tasa de participación y dinamización en talleres tecnológicos de toda la red, lo que permite transferir directamente flujos de trabajo e instrucciones sin costes de adaptación. | 719 inscripciones a talleres tecnológicos en el año 2024 (frente a valores sensiblemente inferiores en otros centros de la red). | Anuario Biblioteca Universitaria de Granada 2024, pág. 23 (Sección "Servicios - Bibliomaker"). |

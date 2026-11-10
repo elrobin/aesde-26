@@ -1,0 +1,30 @@
+---
+text: Benckmarking - Práctica Guiada 
+---
+
+
+# Aula: Benchmarking - Práctica Guiada 
+##Questiones
+
+### 1. El problema de la escala (Colegio Máximo vs. UGR en su conjunto)
+
+La base de datos de REBIUN ofrece estadísticas generales de toda la Universidad de Granada. Al consultarla, me he dado cuenta de que no es posible acceder a datos desglosados por bibliotecas de facultad, por lo que no puedo analizar únicamente la situación de la Biblioteca del Colegio Máximo. Esto supone una limitación para mi trabajo, ya que tengo que comparar los datos de toda la UGR con los de otras universidades, en lugar de centrarme en esta biblioteca concreta y compararla con otras de características similares. Por tanto, los resultados generales de la UGR no tienen por qué reflejar necesariamente la situación real de esta biblioteca, que podría presentar resultados bastante diferentes.
+
+### 2. Lo que recoge la fuente y el denominador elegido
+
+La fuente incluye todas las bibliotecas que forman parte de la red universitaria de cada institución. Para analizar la eficiencia, he elegido como denominador el **número de bibliotecas** (indicador 3.1), con el objetivo de calcular el ratio de *préstamos por biblioteca*. En el caso de la UGR, este número se ha mantenido constante durante todo el período analizado (2021-2024), con un total de 21 bibliotecas. Esto facilita la comparación entre los distintos años, ya que no hay cambios en el número de unidades consideradas. Es diferente del caso de Ceuta que vimos en clase, donde el número de bibliotecas variaba considerablemente y podía influir en la interpretación de los resultados.
+
+### 3. La justificación de mis socios de comparación
+
+Considero que tiene sentido comparar la UGR con otras universidades públicas de Andalucía, concretamente Sevilla, Málaga, Córdoba, Cádiz, Almería, Jaén y Huelva. He elegido estas instituciones porque comparten un contexto bastante similar: pertenecen a la misma comunidad autónoma, siguen un marco normativo común y tienen dimensiones y perfiles de estudiantes relativamente parecidos. Por este motivo, creo que la comparación resulta más adecuada que si incluyera universidades privadas de menor tamaño o instituciones de otras comunidades autónomas, donde las diferencias de contexto podrían dificultar la interpretación de los resultados.
+
+### 4. La comparabilidad de los períodos (años anómalos)
+
+He tomado 2021 como punto de partida, aunque soy consciente de que todavía fue un año condicionado por la situación de la pandemia de COVID-19. Esto puede explicar que los préstamos físicos partan de valores algo más bajos, ya que la actividad presencial todavía no se había recuperado por completo. Entre 2021 y 2024, los préstamos de la UGR aumentaron un 53%. En mi opinión, este crecimiento puede estar relacionado tanto con una mejora del servicio bibliotecario como con la recuperación progresiva de la actividad académica presencial. Por tanto, es importante tener en cuenta este contexto a la hora de interpretar los resultados.
+
+### 5. Limitaciones del indicador
+
+Los datos muestran que la UGR ha tenido una evolución positiva, con un crecimiento del 53% en los préstamos, frente al 33% de la media de las universidades andaluzas. Sin embargo, considero importante señalar que este indicador permite conocer los resultados obtenidos, pero no explica qué medidas han contribuido a conseguirlos. Por ejemplo, no podemos saber si este crecimiento se debe a la adquisición de nuevas colecciones, a la ampliación de los horarios, a la mejora de los sistemas de autopréstamo o a otras iniciativas de las bibliotecas. Para comprender mejor estas diferencias, sería necesario complementar el análisis cuantitativo con un *benchmarking* cualitativo que permitiera identificar y comparar las prácticas desarrolladas por las distintas universidades.
+
+[Benchmarking_AESDE_UGR_Resultados.xlsx](https://github.com/user-attachments/files/34625159/Benchmarking_AESDE_UGR_Resultados.xlsx)
+

@@ -4,7 +4,6 @@ text: Benckmarking - Práctica Guiada
 
 
 # Aula: Benchmarking - Práctica Guiada 
-##Questiones
 
 ### 1. El problema de la escala (Colegio Máximo vs. UGR en su conjunto)
 

@@ -30,9 +30,9 @@ website:
             text: ISOs
           - href: benchmarking.qmd
             text: Benckmarking
-          - href: benchmarkingprácticaguiada.qmd
+          - href: benchmarkingpracticaguiada.qmd
             text: Benckmarking - Práctica Guiada
-          - href: elcontextodelaorganización.qmd
+          - href: elcontextodelaorganizacion.qmd
             text: El contexto de la organización
 
 format:

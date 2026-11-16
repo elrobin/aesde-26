@@ -1,10 +1,10 @@
 ---
-text: Benckmarking
+text: El contexto de la organización
 ---
 
 
-# Aula: Benchmarking
-## Comparación de la Biblioteca del Colegio Máximo
+# Aula: El contexto de la organización
+
 
 | **Tipo**| **Socio**| **Qué se compara** | **¿Producto, servicio o práctica?** | **Por qué este socio** | **Fuente de los datos** |
 | :--- | :--- | :--- | :--- | :--- | :--- | 

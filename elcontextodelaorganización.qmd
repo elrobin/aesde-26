@@ -4,6 +4,32 @@ text: El contexto de la organización
 
 
 # Aula: El contexto de la organización
+# Contexto de la organización: Biblioteca del Colegio Máximo (UGR)
+
+## 1. Cuestiones del contexto
+
+| Cuestión | Interna o externa | Dimensión | ¿FODA? |
+|---|---|---|---|
+| Google Scholar y los asistentes de IA compiten con Primo y las bases de datos como primera fuente de búsqueda *(interpretación)* | Externa | Tecnológica | Amenaza |
+| Pertenencia al CBUA: sistema común Alma/Primo y préstamo CBUA e interbibliotecario | Externa | Económica | Oportunidad |
+| Plantilla de cinco personas: una ausencia deja el mostrador sin cubrir | Interna | Interna (personas) | Debilidad |
+| Fondo en libre acceso con dos clasificaciones (CDU y Odontología), lo que dificulta la localización | Interna | Interna (procesos y colección) | Debilidad |
+| Medición periódica de la satisfacción con LibQual+ desde 2011-12 | Interna | Interna (sistema de gestión) | Fortaleza |
+
+
+## 2. Cambio climático
+
+**Sí, es una cuestión pertinente**, aunque con un alcance modesto. Granada tiene olas de calor cada vez más frecuentes, y el Colegio Máximo es un espacio de 489 m² cuyo uso se concentra en los exámenes, en pleno calor de junio y septiembre. El servicio de sala y de puestos de lectura ya es vulnerable a averías, a la caída de la red y a picos de demanda (Flujo 2). El calor extremo afecta al confort, a la permanencia de los estudiantes en la sala y al funcionamiento de los equipos, y puede llevarlos a estudiar en otro sitio. Además, la UGR tiene compromisos de sostenibilidad que el centro puede apoyar con su consumo energético y con la Sanción Solidaria, que ya tiene un enfoque social. Descartarlo dejaría fuera un riesgo real que la cláusula 6.1 exigiría planificar. Sin embargo, no se ha verificado el estado de la climatización del edificio, y esa decisión depende de la UGR y no del centro, de modo que el margen de acción propio es limitado.
+
+## 3. Partes interesadas
+
+| Parte interesada | Requisito pertinente (¿qué espera de la biblioteca?) | Poder | Interés |
+|---|---|---|---|
+| Estudiantes de Comunicación y Documentación y de Odontología | Encontrar documentos sin ayuda, puestos y ordenadores operativos en exámenes, y normas claras | Bajo | Alto |
+| Profesorado de las dos facultades | Bibliografía recomendada por asignatura (Leganto), recursos electrónicos y formación a medida | Alto | Alto |
+| BUG y UGR (Rectorado, Vicerrectorado y Unidad de Calidad) *(no usuarios)* | Que el centro cumpla los procedimientos del sistema ISO 9001 y EFQM y aporte datos y evidencias | Alto | Alto |
+| Editoriales y proveedores de recursos y de equipamiento *(no usuarios)* | Licencias respetadas, contratos claros y pagos puntuales | Alto | Bajo |
+| CBUA y las otras nueve universidades socias *(no usuarios)* | Reciprocidad en el préstamo y uso correcto de Alma y CatCBUA | Alto | Bajo |
 
 
 | **Tipo**| **Socio**| **Qué se compara** | **¿Producto, servicio o práctica?** | **Por qué este socio** | **Fuente de los datos** |

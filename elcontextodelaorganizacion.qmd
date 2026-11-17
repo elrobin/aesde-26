@@ -10,19 +10,25 @@ text: El contexto de la organización
 
 | Cuestión | Interna o externa | Dimensión | ¿FODA? |
 |---|---|---|---|
-| Google Scholar y los asistentes de IA compiten con Primo y las bases de datos como primera fuente de búsqueda *(interpretación)* | Externa | Tecnológica | Amenaza |
-| Pertenencia al CBUA: sistema común Alma/Primo y préstamo CBUA e interbibliotecario | Externa | Económica | Oportunidad |
 | Plantilla de cinco personas: una ausencia deja el mostrador sin cubrir | Interna | Interna (personas) | Debilidad |
 | Fondo en libre acceso con dos clasificaciones (CDU y Odontología), lo que dificulta la localización | Interna | Interna (procesos y colección) | Debilidad |
 | Medición periódica de la satisfacción con LibQual+ desde 2011-12 | Interna | Interna (sistema de gestión) | Fortaleza |
-
+| Los usuarios resuelven cada vez más sus búsquedas con IA generativa y Google Scholar, en lugar de usar el catálogo y las bases de datos. | Externa | Tecnológica / competitiva | Amenaza |
+| Los acuerdos de acceso abierto negociados por consorcios (CBUA, CRUE) permiten publicar en abierto sin coste extra para los autores. | Externa | Política| Oportunidad |
+| Los precios de las suscripciones a revistas suben más rápido que el presupuesto de la biblioteca. | Externa | Económica | Amenaza |
+| El personal tiene poca formación en gestión de datos de investigación y ciencia abierta. | Interna | Conocimientos | Debilidad |
+| La Estrategia BUG 2024-2031 marca una dirección clara, con alianzas ya establecidas (CBUA, REBIUN). | Interna | Dirección estratégica | Fortaleza |
+| Herramientas de Inteligencia Artificial generativa y buscadores comerciales como ChatGPT y Google Scholar (Universidad de Granada, 2024, https://biblioteca.ugr.es/) | Externa | Tecnológica (PESTEL) | Amenaza, ya que los estudiantes pueden eludir el catálogo y los servicios de la biblioteca al recurrir a motores que ofrecen respuestas inmediatas sin control de veracidad académica. |
+| Marco normativo estatal sobre acceso abierto y depósito de producción científica (LOSU y Ley de la Ciencia) (Moreno Pascual, 2016, http://biblioteca.ugr.es/investigacion/digibug) | Externa | Legal (PESTEL) | Oportunidad, dado que posiciona al repositorio institucional DIGIBUG como el servicio central indispensable para garantizar el cumplimiento de la ley. |
+| Infraestructura física especializada de 489 m² con 170 puestos de lectura y espacio Bibliomaker Máximo (Universidad de Granada, 2024, https://bibliotecaugr.libguides.com/maximo) | Interna | Recursos e infraestructura (Interna) | Fortaleza, ya que dota al centro de un espacio funcional en libre acceso para el aprendizaje y la creación digital de sus facultades de referencia. |
+| Falta de un organigrama formal propio y de registros estadísticos desagregados de uso y satisfacción (Moreno Pascual, 2016, https://biblioteca.ugr.es/informacion/organizacion) | Interna | Dirección estratégica y estructura (Interna) | Debilidad, porque imposibilita cuantificar el rendimiento técnico real de la sala y dificulta la toma de decisiones basada en la evidencia local. |
+|Carta de servicios actualizada | Interna | Interna | Fortaleza |
+| Existencia de una estrategia propia (BUG 2024–2031). | Interna | Interna: planificación y gestión | Fortaleza |
+| Adaptación a las nuevas tecnologías y a la digitalización. | Externa | Tecnológica | Oportunidad |
 
 ## 2. Cambio climático
 
 **Sí, es una cuestión pertinente**, aunque con un alcance modesto. Granada tiene olas de calor cada vez más frecuentes, y el Colegio Máximo es un espacio de 489 m² cuyo uso se concentra en los exámenes, en pleno calor de junio y septiembre. El servicio de sala y de puestos de lectura ya es vulnerable a averías, a la caída de la red y a picos de demanda (Flujo 2). El calor extremo afecta al confort, a la permanencia de los estudiantes en la sala y al funcionamiento de los equipos, y puede llevarlos a estudiar en otro sitio. Además, la UGR tiene compromisos de sostenibilidad que el centro puede apoyar con su consumo energético y con la Sanción Solidaria, que ya tiene un enfoque social. Descartarlo dejaría fuera un riesgo real que la cláusula 6.1 exigiría planificar. Sin embargo, no se ha verificado el estado de la climatización del edificio, y esa decisión depende de la UGR y no del centro, de modo que el margen de acción propio es limitado.
-
-**No, es una cuestión pertinente**, desde la perspectiva del apartado 4.1 de la norma ISO 9001:2026, la organización debe determinar únicamente aquellas cuestiones externas que afecten de manera directa a su propósito específico y a su capacidad para proporcionar servicios que satisfagan los requisitos de los usuarios. En este caso, los procesos nucleares de la unidad local son la consulta en sala, el préstamo, la formación y el acceso a recursos digitales mediante el catálogo Granatensis, tratándose de actividades informativas y pedagógicas desarrolladas en espacios interiores que no dependen críticamente de variables meteorológicas ni de oscilaciones climáticas directas. Además, la gestión de la eficiencia energética, las auditorías de consumo eléctrico y climatización, y el control de la huella de carbono corresponden a las políticas institucionales de la Gerencia de la Universidad de Granada en el marco de su Sistema de Gestión Ambiental (ISO 14001) y planes centralizados de infraestructura, y no al personal operativo de la biblioteca del centro. Por tanto, tras ser formalmente analizado, se concluye que el cambio climático queda fuera de las cuestiones que condicionan la conformidad y los resultados del sistema de gestión de la calidad de esta unidad local.
-
 
 ## 3. Partes interesadas
 

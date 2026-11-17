@@ -3,16 +3,26 @@ title: Datos generales
 ---
 
 # Biblioteca Colegio Máximo UGR
+La Biblioteca Colegio Máximo es la Biblioteca de la Facultad de Comunicación y Documentación y de la Facultad de Odontología de la Universidad de Granada (UGR). Se llama así por el edificio donde se encuentran ambas facultades, llamado Colegio Máximo de Cartuja. 
+![Colegio Máximo de Cartuja](https://granadasingular.com/wp-content/uploads/2024/09/118.webp)
 
-**Datos:**
-
-63
-
-170
-
-958 249412
-
-489
+**Datos que tiene:**
+* Dirección Postal
+    * Colegio Máximo
+    * Biblioteca
+    * Campus Universitario de Cartuja
+    * 18071 - Granada
+* Teléfono - Fax:
+    * 958 243 944 (solo por la mañana)
+    * 958 242 313 
+    * Fax: 958 249 412
+* Horario: 
+    * Lunes a viernes: 8:30/9:00 h. a 20:30/21:00
+* Estructura:
+    * Superficie: 489 m2
+* Equipamiento:
+    * Ordenadores de trabajo y consulta: 63
+    * Puestos de consulta: 170
 
 **Documentos:**
 
